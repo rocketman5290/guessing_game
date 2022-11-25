@@ -1,0 +1,2 @@
+# GUESSING GAME
+## Simple guessing_game program implement in rust using cargo in format of a CLI. This program generates a random number 1..100, and then takes user imput and confirms if the users guess is correct or not.

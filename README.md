@@ -1,5 +1,5 @@
 # GUESSING GAME
- -Simple guessing_game program implement in rust using cargo in format of a CLI. 
+ Simple guessing_game program implement in rust using cargo in format of a CLI. 
  - This program:
     1. generates a random integer in range 1..100,
     2. assigns this random integer to a variable,
